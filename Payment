@@ -22,7 +22,7 @@
 <body>
     <div class="wrapper">
         <div class="payment-box">
-            <h1 class="main-head">🔒 payment</h1>
+            <h1 class="main-head">🔒 secure payment</h1>
 
             <div class="input-box">
                 <div class="input-label">Card Details</div>
